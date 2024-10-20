@@ -1,0 +1,2 @@
+# LagOff
+Minimizar Lag 
